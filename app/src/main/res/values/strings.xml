@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task02</string>
+
+    <!-- GameBacklog fragment -->
+    <string name="fab_add_game">FAB to add game</string>
+    <string name="button_remove_all_games">Remove all games</string>
+
+    <!-- AddGame fragment -->
+    <string name="label_title">Title</string>
+    <string name="label_platform">Platform</string>
+    <string name="label_release_day">Day</string>
+    <string name="label_release_month">Month</string>
+    <string name="label_release_year">Year</string>
+    <string name="fab_save_game">FAB to save game</string>
+
+    <!-- Game item -->
+    <string name="item_game_release">Release: %1$s</string>
+
+    <!-- snackbar -->
+    <string name="snackbar_undo">Undo</string>
+    <string name="snackbar_remove_game">Game \"%1$s\" successfully deleted</string>
+    <string name="snackbar_remove_games">All games successfully deleted</string>
+</resources>

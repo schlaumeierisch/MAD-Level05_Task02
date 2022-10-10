@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="nl.hva.task02.ui.MainActivity">
+    <item
+        android:id="@+id/action_remove_all_games"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:tint="@color/white"
+        app:showAsAction="always"
+        android:title="@string/button_remove_all_games" />
+</menu>
